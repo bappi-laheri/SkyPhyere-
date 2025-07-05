@@ -1,0 +1,19 @@
+src/
+├── components/
+│   ├── auth/
+│   ├── dashboard/
+│   ├── forms/
+│   ├── tax-calculator/
+│   └── ui/
+├── pages/
+│   ├── Home.jsx
+│   ├── Login.jsx
+│   ├── Register.jsx
+│   ├── Dashboard.jsx
+│   └── TaxFiling.jsx
+├── services/
+│   ├── auth.js
+│   └── api.js
+├── utils/
+├── App.js
+└── index.js
